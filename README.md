@@ -6,7 +6,7 @@
 **Responsibilities**: Help the team learn from customers and the market as quickly as possible.
 
 ## Agent & Feature demos
-
+Below is an overview of some agents and capabilities we have built at Semantiks. 
 ### Entertainment agents
 | <img src="images/Cinepolis_vert.gif" width="300"> | Get show times and tickets for the latest movies <br>*Aivy’s Cinepolis and Cinemex (Mexico’s largest theater chains) agents give people the ability to check showtimes and buy tickets for the latest movies in theaters. These agents can also provide recommendations and insights about movies in general.*<br><br>Core features:<br>-Aggregation of showtime and movie data<br>-Movie data query capabilities<br>-Advanced profiling and guardrails<br><br>[Demo video](https://www.loom.com/share/1faf3312afdc493ba4e86e1211ce23d9?sid=63fb7644-8b31-40df-8eaf-33fcfeac188d)<br>[Try on Whatsapp](https://www.aivy.ai/movies)|
 | --- | --- |
