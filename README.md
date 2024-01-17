@@ -2,8 +2,11 @@
 [Semantiks](https://www.semantiks.com/) is a funded pre-seed startup transforming Latin America's digital interactions with 
 [aivy](https://www.aivy.ai/) – a conversational AI application layer for the internet.
 
-**Role:** Head of Product
-**Responsibilities**: Help the team learn from customers and the market as quickly as possible.
+**Consumer website**: [aivy](https://www.aivy.ai/) <br>
+**Company website**: [Semantiks](https://www.semantiks.com/)
+
+**Role:** Head of Product <br>
+**Responsibilities**: Help the team learn from customers and the market as quickly as possible. Keep shipping.
 
 ## Agent & Feature demos
 Below is an overview of some agents and capabilities we have built at Semantiks. 
