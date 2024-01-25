@@ -6,7 +6,6 @@
 **Company website**: [Semantiks](https://www.semantiks.com/)
 
 **Role:** Head of Product <br>
-**Responsibilities**: Help the team learn from customers and the market as quickly as possible. Keep shipping.
 
 ## Agent & Feature demos
 Below is an overview of some agents and capabilities we have built at Semantiks. 
