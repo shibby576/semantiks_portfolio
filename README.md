@@ -2,7 +2,7 @@
 [Semantiks](https://www.semantiks.com/) is a funded pre-seed startup transforming Latin America's digital interactions with 
 [aivy](https://www.aivy.ai/) – a conversational AI application layer for the internet.
 
-*Mentioned in [The Information 1/31/24](https://www.theinformation.com/articles/as-ai-costs-soar-some-startups-consider-selling) | [The Information 2/1/24](https://www.theinformation.com/articles/mistral-reveals-its-secret-weapon-mark-zuckerberg-struggling-startups-are-looking-for-the-exits)* 👀
+👀 *Mentioned in [The Information 1/31/24](https://www.theinformation.com/articles/as-ai-costs-soar-some-startups-consider-selling) | [The Information 2/1/24](https://www.theinformation.com/articles/mistral-reveals-its-secret-weapon-mark-zuckerberg-struggling-startups-are-looking-for-the-exits)*
 
 **Consumer website**: [aivy](https://www.aivy.ai/) <br>
 **Company website**: [Semantiks](https://www.semantiks.com/)
